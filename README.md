@@ -9,4 +9,5 @@ My name is **Diego Quezada** and I'm a Chilean last year **Computer Science Stud
 
 ### What I'm doing
 - 👨‍🏫 I'm working as **Computational statistics lab assitant** at Federico Santa Maria Technical University.
+- 🚙 I'm working as **Junior Data Developer** at Seez, a Dubai Company 🐫. 
 - 👽 I'm working as a freelance **Data scientist** at Future AI. BTW check out their [webpage](https://myfuture.ai/), it's kinda cool.
