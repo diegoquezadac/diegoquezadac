@@ -2,9 +2,9 @@
 
 ### Introduction
 
-I'm a Chilean 🇨🇱 last year **Computer Science Student** at [Federico Santa Maria Technical University](https://usm.cl/). To be more specific, I'm a thesis student applying ML to predict *trade-in* valuations of cars in Europe.
+I'm a Chilean Machine Learning Engineer and MSc student at [Federico Santa Maria Technical University](https://usm.cl/).
 
-Since April 2022, I'm working as a **Data Scientist** at [Seez](seez.dk): a fast-growing Dubai-based startup.
+Since April 2022, I'm working at [Seez](seez.dk): a fast-growing Dubai-based startup.
 
 ### Getting started
 
