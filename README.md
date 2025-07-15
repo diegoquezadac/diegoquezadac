@@ -2,4 +2,6 @@
 
 MSc student at [Federico Santa Maria Technical University](https://usm.cl/).
 
-Identifying top quark decays with ML at CERN.
+Engineer student at CERN. Identifying top quark decays with ML.
+
+AI Engineer at [Flow](https://web.flow.cl/es-cl/).
